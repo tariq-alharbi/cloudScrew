@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: cloudscrew
-        image: hub-registry.me-central-1.cr.aliyuncs.com/hub/hcth:cloudScrew
+        image: <URL>
         ports:
         - containerPort: 80
